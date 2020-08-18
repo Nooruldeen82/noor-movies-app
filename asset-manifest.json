@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/noor-movies-app/static/css/main.062964e0.chunk.css",
-    "main.js": "/noor-movies-app/static/js/main.ef7c51b1.chunk.js",
-    "main.js.map": "/noor-movies-app/static/js/main.ef7c51b1.chunk.js.map",
+    "main.js": "/noor-movies-app/static/js/main.519dbaed.chunk.js",
+    "main.js.map": "/noor-movies-app/static/js/main.519dbaed.chunk.js.map",
     "runtime-main.js": "/noor-movies-app/static/js/runtime-main.ea7d3d22.js",
     "runtime-main.js.map": "/noor-movies-app/static/js/runtime-main.ea7d3d22.js.map",
     "static/js/2.9ac45fc5.chunk.js": "/noor-movies-app/static/js/2.9ac45fc5.chunk.js",
     "static/js/2.9ac45fc5.chunk.js.map": "/noor-movies-app/static/js/2.9ac45fc5.chunk.js.map",
     "index.html": "/noor-movies-app/index.html",
-    "precache-manifest.78d65df9eadf2bc1fa93d988d8beadfe.js": "/noor-movies-app/precache-manifest.78d65df9eadf2bc1fa93d988d8beadfe.js",
+    "precache-manifest.7c74ffe97816aafb92ecee6fbe15ec68.js": "/noor-movies-app/precache-manifest.7c74ffe97816aafb92ecee6fbe15ec68.js",
     "service-worker.js": "/noor-movies-app/service-worker.js",
     "static/css/main.062964e0.chunk.css.map": "/noor-movies-app/static/css/main.062964e0.chunk.css.map",
     "static/js/2.9ac45fc5.chunk.js.LICENSE.txt": "/noor-movies-app/static/js/2.9ac45fc5.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ea7d3d22.js",
     "static/js/2.9ac45fc5.chunk.js",
     "static/css/main.062964e0.chunk.css",
-    "static/js/main.ef7c51b1.chunk.js"
+    "static/js/main.519dbaed.chunk.js"
   ]
 }

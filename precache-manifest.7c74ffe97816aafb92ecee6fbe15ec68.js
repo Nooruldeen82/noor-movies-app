@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "370c4fedfd38975161b093b7baf35667",
+    "revision": "6a19f5dec24ab5ae5fc949169c28edf7",
     "url": "/noor-movies-app/index.html"
   },
   {
-    "revision": "b4327888ad9bb9228e37",
+    "revision": "d9b172ce3b8f745bd58a",
     "url": "/noor-movies-app/static/css/main.062964e0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/noor-movies-app/static/js/2.9ac45fc5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4327888ad9bb9228e37",
-    "url": "/noor-movies-app/static/js/main.ef7c51b1.chunk.js"
+    "revision": "d9b172ce3b8f745bd58a",
+    "url": "/noor-movies-app/static/js/main.519dbaed.chunk.js"
   },
   {
     "revision": "0443c9c8bc49bd2176b5",
