@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/noor-movies-app/precache-manifest.e0f376ec35f0ac1b3c153a4b4583ce54.js"
+  "/noor-movies-app/precache-manifest.6ac9b2ac7585564c1ce23d802c85dcbe.js"
 );
 
 self.addEventListener('message', (event) => {
